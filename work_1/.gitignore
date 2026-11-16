@@ -1,0 +1,5 @@
+# Visual Studio cache
+.vs/
+
+# Generated build files
+**/x64/Debug/
